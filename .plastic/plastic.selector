@@ -1,0 +1,4 @@
+repository "GenjiSimu@moxishaw1@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
